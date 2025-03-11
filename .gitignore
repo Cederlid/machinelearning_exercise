@@ -3,3 +3,4 @@ data/bike/hour.csv
 data/bike/day.csv
 notebooks/student_solutions/week2_lab04_bike_rental.ipynb
 data/titanic.csv
+.DS_Store

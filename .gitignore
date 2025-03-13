@@ -4,3 +4,8 @@ data/bike/day.csv
 notebooks/student_solutions/week2_lab04_bike_rental.ipynb
 data/titanic.csv
 .DS_Store
+data/student-mat.csv
+.gitignore
+data/student-por.csv
+data/student.txt
+data/student-merge.R

@@ -16,3 +16,4 @@ data/mnist/train-images.idx3-ubyte
 data/mnist/train-labels.idx1-ubyte
 data/project_data.csv
 data/creditcard.csv
+Laboration/output.html
